@@ -6,10 +6,11 @@ Name: Shaohua Xu
 
 A bullet-point list of the ADDITIONAL features you have implemented in the API **THAT WERE NOT IN THE LABS** (or modifications to existing features)
  
- + Feature 1 
- + Feature 2 
- + Feature 3 
- + etc
+ + Fetch all the movies list from MongoDB
+ + Fetch details of one specific movie from TMDB (movieid)
+ + A login page for users to login
+ + Show all the movies list on the home page
+ + Show one specific movie on the home page
 
 ## Setup requirements.
 
